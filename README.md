@@ -36,13 +36,18 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/zawa9"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zawa9" /></a><a href="https://ko-fi.com/zawa9"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="zawa9" /></a></p><br><br>
 
+
 ## 🌟 Github Badges
-<p>
-<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" height="24px">
-<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" height="24px">
-<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" height="24px">
-<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif" height="24px">
-</p>
+ 
+<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" alt="Pro Compiler & handler" height="24px"> Pro Compiler & handler
+
+<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" alt="Verified Developer" height="24px"> Verified Developer
+
+<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif" alt="Sponsor & contributor" height="24px"> Sponsor & contributor
+
+⭐️ 74 Stars
+
+
 
 
 
