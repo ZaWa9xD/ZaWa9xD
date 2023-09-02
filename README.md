@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **IDPS & HIDS**
 
-- 📫 You can reach me Using discord too [TAG : unnkownn_1#0](TAG : unnkownn_1#0)
+- 📫 You can reach me Using discord too [TAG : unnkownn_1#0]
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
