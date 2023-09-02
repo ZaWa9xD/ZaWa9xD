@@ -36,6 +36,16 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/zawa9"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zawa9" /></a><a href="https://ko-fi.com/zawa9"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="zawa9" /></a></p><br><br>
 
+## 🌟 Github Badges
+<p>
+<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" height="24px">
+<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" height="24px">
+<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" height="24px">
+<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif" height="24px">
+</p>
+
+
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <!--- stats & Trophy (start) -->
@@ -52,7 +62,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=arjuncvinod&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://cdn.discordapp.com/attachments/1139416210212147261/1147623184519155833/88089534-72329900-cb8c-11ea-8bcb-170a7984859d.png"/>
   
   </td>
 </tr>
