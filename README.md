@@ -1,7 +1,7 @@
 ![logo](https://cdn.discordapp.com/attachments/1119334578876846120/1147640322298486824/Screenshot_2023-09-02_221205.png)
 <h1 align="center">Hi 👋, I'm Nizar</h1>
 <h3 align="center">A Full-Stack Developer | Crafting Digital Experiences 🌐 | Code, Coffee and Creativity</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1119334578876846120/1147630083830448279/Hacker_Portant_Un_Sweat_a_Capuche_Et_Utilisant_Un_Ordinateur_Portable_Freak_Piratage_Et_Malware_Concept_Geek_Hackers_Numeriques_Scammer_Phishing_Mysterieux_Fraude_Espion_Voleur_PNG__Clipart_Internet_Fou_D_Ordinate.png")
+<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1233156163504177224/1262694184083787817/image.png")
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zawa9xd&label=Profile%20views&color=0e75b6&style=flat" alt="zawa9xd" /> </p>
