@@ -1,4 +1,4 @@
-![logo](https://cdn.discordapp.com/attachments/1119334578876846120/1147640322298486824/Screenshot_2023-09-02_221205.png)
+![logo](https://github.com/ZaWa9xD/ZaWa9xD/blob/main/README.md)
 <h1 align="center">Hi 👋, I'm Nizar</h1>
 <h3 align="center">A Full-Stack Developer | Crafting Digital Experiences 🌐 | Code, Coffee and Creativity</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1233156163504177224/1262694184083787817/image.png")
@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **IDPS & HIDS**
 
-- 📫 You can reach me Using discord too [TAG : unnkownn_1#0]
+- 📫 You can reach me Using discord too [TAG : 000x96#0]
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
