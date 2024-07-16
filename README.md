@@ -60,9 +60,9 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=arjuncvinod&theme=midnight-purple&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ZaWa9xD&theme=midnight-purple&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=arjuncvinod&theme=midnight-purple&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ZaWa9xD&theme=midnight-purple&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
@@ -75,7 +75,7 @@
 <!--- stats (end) -->
 
 <!--- trophy (start) -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjuncvinod&layout=compact&theme=radical&column=7&row=1&margin-w=15&margin-h=15" alt="arjuncvinod" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ZaWa9xD&layout=compact&theme=radical&column=7&row=1&margin-w=15&margin-h=15" alt="arjuncvinod" /></a> </p>
 <!--- trophy (end) -->
 
 
