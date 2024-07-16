@@ -1,7 +1,7 @@
 ![logo](https://cdn.discordapp.com/attachments/1233156163504177224/1262694184083787817/image.png?ex=66978719&is=66963599&hm=f45dcd6eab05eec16f9ace92a5064bc1bcf14d8c822aa59f333e5292b976e6eb&)
 <h1 align="center">Hi 👋, I'm Nizar</h1>
 <h3 align="center">A Full-Stack Developer | Crafting Digital Experiences 🌐 | Code, Coffee and Creativity</h3>
-<img align="right" alt="Coding" width="400" src=["https://cdn.discordapp.com/avatars/660877766505267233/27eab07a0bcf09e1bcf341d0740d07b9.webp?size=1024&format=webp&width=0&height=192"]
+<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/avatars/660877766505267233/27eab07a0bcf09e1bcf341d0740d07b9.webp?size=1024&format=webp&width=0&height=192"
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zawa9xd&label=Profile%20views&color=0e75b6&style=flat" alt="zawa9xd" /> </p>
